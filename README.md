@@ -51,7 +51,7 @@
 ---  
 
 ### **Why Model 3 Is Best for DynamoDB Beginners**  
-✅ **Simplicity:** One item per car—natural fit for CRUD operations.  
+✅ **Simplicity:** One item per car—natural fit for CRUD operations and way easier to understand for me.  
 ✅ **Storage Efficiency:** Only stores *available* dates (no wasted `false` flags).  
 ✅ **Scalability:** Avoids redundant PK/SK designs and write-heavy duplication.  
 ✅ **Future Flexibility:** Start simple, add a GSI later if needed for date queries.  
