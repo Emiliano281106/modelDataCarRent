@@ -1,0 +1,227 @@
+[
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2022#001",
+    "make": "Ford",
+    "model": "Explorer",
+    "year": 2022,
+    "color": "Red",
+    "price": 20
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2021#002",
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2021,
+    "color": "Blue",
+    "price": 18
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2020#003",
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2020,
+    "color": "White",
+    "price": 15
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2019#004",
+    "make": "Chevrolet",
+    "model": "Silverado",
+    "year": 2019,
+    "color": "Black",
+    "price": 25
+  },
+  {
+    "delegationId": "DELEG#001",
+    "operation": "car#2023#005",
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": 2023,
+    "color": "Gray",
+    "price": 35
+  },
+  {
+    "delegationId": "DELEG#002",
+    "operation": "car#2021#001",
+    "make": "BMW",
+    "model": "X5",
+    "year": 2021,
+    "color": "Black",
+    "price": 45
+  },
+  {
+    "delegationId": "DELEG#002",
+    "operation": "car#2020#002",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2020,
+    "color": "Silver",
+    "price": 38
+  },
+  {
+    "delegationId": "DELEG#002",
+    "operation": "car#2022#003",
+    "make": "Audi",
+    "model": "Q7",
+    "year": 2022,
+    "color": "Blue",
+    "price": 50
+  },
+  {
+    "delegationId": "DELEG#002",
+    "operation": "car#2018#004",
+    "make": "Lexus",
+    "model": "RX 350",
+    "year": 2018,
+    "color": "White",
+    "price": 30
+  },
+  {
+    "delegationId": "DELEG#002",
+    "operation": "car#2023#005",
+    "make": "Porsche",
+    "model": "Cayenne",
+    "year": 2023,
+    "color": "Red",
+    "price": 75
+  },
+  {
+    "delegationId": "DELEG#003",
+    "operation": "car#2019#001",
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": 2019,
+    "color": "Green",
+    "price": 28
+  },
+  {
+    "delegationId": "DELEG#003",
+    "operation": "car#2020#002",
+    "make": "Subaru",
+    "model": "Outback",
+    "year": 2020,
+    "color": "Blue",
+    "price": 22
+  },
+  {
+    "delegationId": "DELEG#003",
+    "operation": "car#2021#003",
+    "make": "Hyundai",
+    "model": "Tucson",
+    "year": 2021,
+    "color": "Gray",
+    "price": 20
+  },
+  {
+    "delegationId": "DELEG#003",
+    "operation": "car#2022#004",
+    "make": "Kia",
+    "model": "Sorento",
+    "year": 2022,
+    "color": "Black",
+    "price": 26
+  },
+  {
+    "delegationId": "DELEG#003",
+    "operation": "car#2023#005",
+    "make": "Mazda",
+    "model": "CX-5",
+    "year": 2023,
+    "color": "Red",
+    "price": 27
+  },
+  {
+    "delegationId": "DELEG#004",
+    "operation": "car#2017#001",
+    "make": "Volkswagen",
+    "model": "Golf",
+    "year": 2017,
+    "color": "White",
+    "price": 12
+  },
+  {
+    "delegationId": "DELEG#004",
+    "operation": "car#2018#002",
+    "make": "Nissan",
+    "model": "Rogue",
+    "year": 2018,
+    "color": "Silver",
+    "price": 16
+  },
+  {
+    "delegationId": "DELEG#004",
+    "operation": "car#2019#003",
+    "make": "Dodge",
+    "model": "Challenger",
+    "year": 2019,
+    "color": "Black",
+    "price": 30
+  },
+  {
+    "delegationId": "DELEG#004",
+    "operation": "car#2020#004",
+    "make": "Chrysler",
+    "model": "Pacifica",
+    "year": 2020,
+    "color": "Blue",
+    "price": 24
+  },
+  {
+    "delegationId": "DELEG#004",
+    "operation": "car#2021#005",
+    "make": "Volvo",
+    "model": "XC60",
+    "year": 2021,
+    "color": "Gray",
+    "price": 40
+  },
+  {
+    "delegationId": "DELEG#005",
+    "operation": "car#2016#001",
+    "make": "Land Rover",
+    "model": "Range Rover",
+    "year": 2016,
+    "color": "Black",
+    "price": 42
+  },
+  {
+    "delegationId": "DELEG#005",
+    "operation": "car#2017#002",
+    "make": "Jaguar",
+    "model": "F-PACE",
+    "year": 2017,
+    "color": "White",
+    "price": 35
+  },
+  {
+    "delegationId": "DELEG#005",
+    "operation": "car#2018#003",
+    "make": "Acura",
+    "model": "MDX",
+    "year": 2018,
+    "color": "Red",
+    "price": 28
+  },
+  {
+    "delegationId": "DELEG#005",
+    "operation": "car#2019#004",
+    "make": "Infiniti",
+    "model": "QX60",
+    "year": 2019,
+    "color": "Silver",
+    "price": 32
+  },
+  {
+    "delegationId": "DELEG#005",
+    "operation": "car#2020#005",
+    "make": "Lincoln",
+    "model": "Navigator",
+    "year": 2020,
+    "color": "Black",
+    "price": 55
+  }
+]
